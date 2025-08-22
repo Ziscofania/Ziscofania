@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="./assets/momos _v.jpg" alt="Banner con estrellas" width="100%" style="border-radius:15px;">
+  <img src="./assets/image.png" alt="Banner con estrellas" width="100%" style="border-radius:15px;">
 </p>
 
 <h1 align="center">¡Hola, soy Ziscofania! </h1>
