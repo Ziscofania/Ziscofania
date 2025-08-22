@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 Proyectos
+##  Proyectos
 <p align="center">🔧 Algunos de mis proyectos favoritos:</p>
 
 - [Proyecto 1](#): Breve descripción (tecnologías usadas)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🔗 Encuéntrame en
+##  Encuéntrame en
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40"/></a>
@@ -36,10 +36,10 @@
 
 ---
 
-## 💡 Sobre mí
-- 🔍 Enfocado en la lógica de programación y el desarrollo de software.  
-- 🚀 Siempre buscando aprender y mejorar.  
-- 🤝 Me gusta colaborar y compartir conocimiento.  
+##  Sobre mí
+-  Enfocado en la lógica de programación y el desarrollo de software.  
+-  Siempre buscando aprender y mejorar.  
+-  Me gusta colaborar y compartir conocimiento.  
 
 ---
 ---
